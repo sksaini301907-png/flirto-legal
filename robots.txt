@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sksaini301907-png.github.io/flirto-legal/sitemap.xml
